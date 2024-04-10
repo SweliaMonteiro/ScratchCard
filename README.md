@@ -1,7 +1,7 @@
 # ScratchCard Service for Shopping Application
 
 ## Problem Statement
-You are required to build ScratchCard module for a Shopping application. The existing application have following tables -
+You are required to build ScratchCard module for a Shopping application. The application have following tables:
 1. Users (ID, UserID, Firstname, Lastname, IsActive, Password)
 2. Items(ID, Name, Rate, IsActive)
 3. ScratchCards (ScratchCardGUID, Discount, ScratchCardExpiryDate, IsActive) 
